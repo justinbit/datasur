@@ -1,5 +1,8 @@
 # NB CPF Frontend Assets and Country/Phone Field Integration
 
+## Plugin file
+wp-content\plugins\country-phone-field-contact-form-7\includes\include-js-css.php
+
 This file registers and initializes frontend CSS/JavaScript assets for a
 WordPress plugin/theme feature that adds country selector and international phone
 number behavior to Contact Form 7 fields.
